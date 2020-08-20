@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kemenkumham Jambi</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">KumhamJambi</string>
+    <string name="title_home1">Beranda</string>
+    <string name="title_search">Cari</string>
+    <string name="title_profile">Pengguna</string>
+    <string name="title_activity_tab_layout">tab_layout</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+</resources>
